@@ -22,9 +22,9 @@ die ersten 4 äußeren Pins an den Teensy löten kann.
 Dann Den Teensy mit den Pins orgentlich einspannen und alle 
 * männliche Pins an den Teensy löten
 
-![images](IMG_0004.JPG)
+![images](images/IMG_0004.JPG)
 
-<media-tag src="https://cryptpad.piratenpartei.de/blob/93/936e6393ac801778e7cdd3b198778b9c9f408cb135e10564" data-crypto-key="cryptpad:3Av28f4JzlNIEpfvjL3OW0l9kUvCtaUEqIAWDsDmRaA="></media-tag>
+
 
 <media-tag src="https://cryptpad.piratenpartei.de/blob/c7/c7d25ea29c3cf6595d9a232651f4b90732012b1c83f26f35" data-crypto-key="cryptpad:Pp2/sClM3Ia/Kt5yXQBf8i3xVdBqKGi/t3AB42B7FaA="></media-tag>
 (Bild 1 &2: Teensy ohne Pins, Experimetierboard mit männlichen Pins)
