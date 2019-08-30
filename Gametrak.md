@@ -3,11 +3,11 @@
 
 ## Einkaufsliste:                                     
 
-Item                                       | Preis
+Item                                       | Preis (EUR)
 -------------------------------------------|:-------:
 Gamtrak version 2                          | 20 
 Experimentierboard                         | 7
-Teensy 3.6                                 | 34
+Teensy 3.6                                 | 34 
 Pins männlich und weiblich, je 2 Leisten   | 5
 Kabel                                      | 3
 Schrumpfschlauch
