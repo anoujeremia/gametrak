@@ -34,10 +34,9 @@ Dann Den Teensy mit den Pins orgentlich einspannen und alle
 
 
 * Gamtrak aufschrauben
-<media-tag src="https://cryptpad.piratenpartei.de/blob/69/69301a258b9100495c37631317021146390eac7d6ce598bf" data-crypto-key="cryptpad:O2gTrAUIUay8Y+VcKlON2CmCHoXB9szflpZdYpuupig="></media-tag>
-<media-tag src="https://cryptpad.piratenpartei.de/blob/13/134f9b952cb1add10fb6e305bbaf7d94d9163632b6ec03b9" data-crypto-key="cryptpad:XUY92bhEufgoqAc71UWD4hwU2VEYW8qzZJ5EAfsRj7s="></media-tag>
+![images](images/IMG_0009.JPG)
 (Gametrak Version 2, noch ganz)
-<media-tag src="https://cryptpad.piratenpartei.de/blob/d9/d9fed3a222d890663f51b2fec2feae0c9de2c425417ac812" data-crypto-key="cryptpad:lviG8DfQSEnAlFmwXLeijpRm4WQph3EFEozteX6uuUk="></media-tag>
+![images](images/IMG_0010.JPG)
 (aufgeschraubt)
 
 
