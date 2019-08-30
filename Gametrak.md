@@ -24,18 +24,14 @@ Dann Den Teensy mit den Pins orgentlich einspannen und alle
 
 ![images](images/IMG_0004.JPG)
 
+(Teensy ohne Pins, Experimetierboard mit männlichen Pins)
 
+![images](images/IMG_0006.JPG)
+(Lötkolben und Teensy mit männlichen Pins angelötet)
 
-<media-tag src="https://cryptpad.piratenpartei.de/blob/c7/c7d25ea29c3cf6595d9a232651f4b90732012b1c83f26f35" data-crypto-key="cryptpad:Pp2/sClM3Ia/Kt5yXQBf8i3xVdBqKGi/t3AB42B7FaA="></media-tag>
-(Bild 1 &2: Teensy ohne Pins, Experimetierboard mit männlichen Pins)
-
-
-<media-tag src="https://cryptpad.piratenpartei.de/blob/83/83168c292f5d8b1bb5d89b1dd13e090925d821f197b03c24" data-crypto-key="cryptpad:yYoMfwVsPzKcuJsKbJ3zftz+TyAJX4o0YsIP6MTKC/c="></media-tag>
-(Lötkolben und Teensz mit männlichen Pins angelötet)
-<media-tag src="https://cryptpad.piratenpartei.de/blob/16/16d29558044ce96975dcd3ac547ec834f11905c65af8c19f" data-crypto-key="cryptpad:1qCXjkHZKnnc4OdO/VD1CFxU4FsBCcV5xWqcAta7+lU="></media-tag>
+![images](images/IMG_0007.JPG)
 (alle Pins sind sauber am Teensy angelötet, auch unter der Lupe sind keine falschen Brücken)
 
--
 
 * Gamtrak aufschrauben
 <media-tag src="https://cryptpad.piratenpartei.de/blob/69/69301a258b9100495c37631317021146390eac7d6ce598bf" data-crypto-key="cryptpad:O2gTrAUIUay8Y+VcKlON2CmCHoXB9szflpZdYpuupig="></media-tag>
