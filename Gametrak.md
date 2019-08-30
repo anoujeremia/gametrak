@@ -50,7 +50,7 @@ Dann Den Teensy mit den Pins orgentlich einspannen und alle
 <media-tag src="https://cryptpad.piratenpartei.de/blob/e1/e19bdb987b9de36c2d84e2519047a25ebe88b3e831e500ae" data-crypto-key="cryptpad:h/7qz8sGoYKnZfmOcUAxMQZ2lUFqUGkAvBs1yj++mLI="></media-tag>
 Dann hat man folgende lose Bauteile: Beide Spulen inklusive Schnur und Potentiometer mit Kabeln 
 <media-tag src="https://cryptpad.piratenpartei.de/blob/4a/4a415cb5bfa70dc0ad6ed372cd6871e73340da81e6c140c5" data-crypto-key="cryptpad:rBQ1Upl1OX6F8avTUs/V2FIs1tSpr+325GCAeRm942w="></media-tag>
-.
+
 
 * die 2x 5 abgeknipsten Kabel mit der Abisolierzange an den Enden ca 3mm abisolieren,
 
