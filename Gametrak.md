@@ -97,7 +97,8 @@ Natürlich können die Belegungen auch anders gewählt werden, in diesem Fall is
 
 Hier nochmal der ganze Teensy Schaltplan:
 
-![images](images/Teensy 3.6.png)
+![images](images/TEENSY 3.6.PNG)
+
 
 * die Kabel vom Potentiometer im Experimentierboard mit dem Teensy verbinden: Jeweils die Plus und Minus Kabel mit dem GND und 3.3 V vom Teensy durch stecken verbinden, und die jeweils 3 Sensorenkabel mit jeweils 3 Analoge-Pins vom Teensy durch stecken verbinden. (Z.B. A0-A6, Nr 14-20 am Teensy).
 
