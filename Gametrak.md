@@ -22,6 +22,8 @@ Schrumpfschlauch
 * Zange
 * Schraubenzieher
 * Feuerzeug
+* Multimeter
+* USB Kabel & Computer
 
 ### Bausession:
 
