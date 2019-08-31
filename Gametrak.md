@@ -108,8 +108,10 @@ Hier nochmal der ganze Teensy Schaltplan:
 
 Jetzt nur noch mit dem Computer verbinden und schauen ob es schon funktioniert,
 das heißt:
-* mit dem USB Kabel den Teensy mit dem Computer verbinden, in der Software (die extra dafür geschreiben wurde) die neuen Belegungen des Teensy eintragen, im Arduino Programm im callibration mode die Potentiometer neu kallibrieren
+* mit dem USB Kabel den Teensy mit dem Computer verbinden und entweder einen beliebigen Open-Source Synthesizer starten (z.B. Helm), oder
+* in der Software (die extra dafür geschreiben wurde- siehe scr Ordner) die neuen Belegungen des Teensy eintragen, im Arduino Programm im callibration mode die Potentiometer neu kallibrieren
 
 ![images](images/IMG_0031.JPG)
 
-* Tataaaaaaaaaa die PD pads gehen auch mit dem Gamtrak 2.0 :)
+* PurData auf dem Rechner starten und den neuen Gametrak2.0- Midicontroller mit den Patches von Pd testen
+* TADAAA es funktioniert, jetzt nur noch eine Box für den Gametrak bauen und viel Spaß mit dem neuen Midicontroller! 
