@@ -17,6 +17,7 @@ Schrumpfschlauch
 ### Equipment:
 
 * Lötkolben
+* Lötzinn
 * Abisolierzange
 * Zange
 * Schraubenzieher
@@ -26,9 +27,9 @@ Schrumpfschlauch
 
 Start 19:00 Ende 21:15
 
-Der Teensy wurde ohne Pins Pins geliefert, deshalb werden als erstes die männlichen Pins so auf das Experimentierboard gesteckt, dass man den Teensy auf die Pins stecken kann und nun
+Der Teensy wurde ohne Pins geliefert, deshalb werden als erstes die männlichen Pins so auf das Experimentierboard gesteckt, dass man den Teensy auf die Pins stecken kann und nun
 die ersten 4 äußeren Pins an den Teensy löten kann. 
-Dann Den Teensy mit den Pins orgentlich einspannen und alle 
+Dann den Teensy mit den Pins orgentlich einspannen und alle 
 * männliche Pins an den Teensy löten
 
 ![images](images/IMG_0004.JPG)
