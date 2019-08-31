@@ -1,7 +1,8 @@
 # Gamtrak Nr 2 
 
+## Vom Golf-Playstation-controller zum Midicontroller
 
-## Einkaufsliste:                                     
+### Einkaufsliste:                                     
 
 Item                                       | Preis (EUR)
 -------------------------------------------|:-------:
@@ -13,7 +14,15 @@ Kabel                                      | 3
 Schrumpfschlauch
 
 
-## 1.Bausession:
+### Equipment:
+
+* Lötkolben
+* Abisolierzange
+* Zange
+* Schraubenzieher
+* Feuerzeug
+
+### Bausession:
 
 Start 19:00 Ende 21:15
 
