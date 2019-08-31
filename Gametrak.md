@@ -23,7 +23,6 @@ Dann Den Teensy mit den Pins orgentlich einspannen und alle
 * männliche Pins an den Teensy löten
 
 ![images](images/IMG_0004.JPG)
-
 (Teensy ohne Pins, Experimetierboard mit männlichen Pins)
 
 ![images](images/IMG_0006.JPG)
@@ -98,7 +97,7 @@ Natürlich können die Belegungen auch anders gewählt werden, in diesem Fall is
 
 Hier nochmal der ganze Teensy Schaltplan:
 
-![images](images/Teensz 3.6.png)
+![images](images/Teensy 3.6.png)
 
 * die Kabel vom Potentiometer im Experimentierboard mit dem Teensy verbinden: Jeweils die Plus und Minus Kabel mit dem GND und 3.3 V vom Teensy durch stecken verbinden, und die jeweils 3 Sensorenkabel mit jeweils 3 Analoge-Pins vom Teensy durch stecken verbinden. (Z.B. A0-A6, Nr 14-20 am Teensy).
 
