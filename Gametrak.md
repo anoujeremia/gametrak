@@ -117,7 +117,6 @@ Hier nochmal der ganze Teensy Schaltplan:
 
 ![images](images/IMG_0027.JPG)
 ![images](images/IMG_0029.JPG)
-
 (Diese gesteckte Version kann später natürlich gelötet werden oder durch stabiliere Stecksystheme ersetzt werden)
 
 Jetzt nur noch mit dem Computer verbinden und schauen ob es schon funktioniert,
