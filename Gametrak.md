@@ -45,16 +45,12 @@ männliche Pins an den Teensy löten | _
 Teensy ohne Pins, Experimetierboard mit männlichen Pins | ![images](images/IMG_0004.JPG)
 Lötkolben und Teensy mit männlichen Pins angelötet | ![images](images/IMG_0006.JPG)
 Alle Pins sind sauber am Teensy angelötet, auch unter der Lupe sind keine falschen Brücken. | ![images](images/IMG_0007.JPG)
-
-Gamtrak außeinander nehmen | _
----------------------------|---
+**Gamtrak außeinander nehmen** | 
 Gametrak Version 2, noch ganz | ![images](images/IMG_0009.JPG)
 aufgeschraubt | ![images](images/IMG_0010.JPG)
 Die 5 Kabel, die jeweils aus den beiden Potentiometern (Spule und Schnur vom Gamtrak) kommen, von der Gamtrak eigenen Platine abknipsen | ![images](images/IMG_0012.JPG)
 dann hat man folgende lose Bauteile: Beide Spulen inklusive Schnur und Potentiometer mit Kabeln. | ![images](images/IMG_0015.JPG)
-
-Neue weibliche Verbinder anlöten | _
----------------------------------|---
+**Neue weibliche Verbinder anlöten** | 
 Die 2x 5 abgeknipsten Kabel mit der Abisolierzange an den Enden ca 3mm abisolieren, | ![images](images/IMG_0016.JPG)
 dann jedes Ende mit dem Lötkolben einzeln mit Lötzinn verzinnen und 10x1cm Schrumpfschlauchstücke abschneiden, jedes Schrumpfschlauchstück über ein Kabel ziehen | ![images](images/IMG_0021.JPG)
 jedes Kabelende einzeln mit einem Ende eines weiblichen Pins verlöten | ![images](images/IMG_0019.JPG)
