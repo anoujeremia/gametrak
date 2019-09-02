@@ -1,4 +1,4 @@
-# Gamtrak Nr 2 
+# Gametrak Nr 2 
 
 ## Vom Golf-Playstation-controller zum Midicontroller
 
@@ -6,7 +6,7 @@
 
 Item                                       | Preis (EUR)
 -------------------------------------------|:-------:
-Gamtrak version 2                          | 20 
+Gametrak version 2                          | 20 
 Experimentierboard                         | 7
 Teensy 3.6                                 | 34 
 Pins männlich und weiblich, je 2 Leisten   | 5
