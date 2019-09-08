@@ -7,7 +7,7 @@
 
 Item                                       | Preis (EUR)
 -------------------------------------------|:-------:
-Gametrak version 2                          | 20 
+Gametrak version 2                          | 20 - 30
 Experimentierboard                         | 7
 Teensy 3.6                                 | 34 
 Pins männlich und weiblich, je 2 Leisten   | 5
