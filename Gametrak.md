@@ -2,6 +2,9 @@
 
 ## Vom Golf-Playstation-controller zum Midicontroller
 
+[![Watch the video](https://raw.githubusercontent.com/anoujeremia/gametrak/master/images/Gametrak%20Preview.png)](https://raw.githubusercontent.com/anoujeremia/gametrak/master/images/Gametrak.webm)
+
+https://raw.githubusercontent.com/anoujeremia/gametrak/master/images/Gametrak%20Preview.png
 
 ### Einkaufsliste:                                     
 
