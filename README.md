@@ -2,6 +2,8 @@
 
 ## Vom Golf-Playstation-controller zum Midicontroller
 
+`TODO: Einleitungstext`
+
 [![Watch the video](https://raw.githubusercontent.com/anoujeremia/gametrak/master/images/Gametrak%20Preview.png)](https://raw.githubusercontent.com/anoujeremia/gametrak/master/images/Gametrak.webm)
 
 https://raw.githubusercontent.com/anoujeremia/gametrak/master/images/Gametrak%20Preview.png
@@ -87,8 +89,8 @@ Gesamtansicht von Teensy und den beiden Gametrak-Hälften. | ![images](images/IM
 
 Jetzt nur noch mit dem Computer verbinden und schauen ob es schon funktioniert,
 das heißt:
-* mit dem USB Kabel den Teensy mit dem Computer verbinden und entweder einen beliebigen Open-Source Synthesizer starten (z.B. [Helm](https://tytel.org/helm/)), oder `TODO: andere Optionen?`
-* in der Software (die extra dafür geschreiben wurde- siehe [TeensySourcecode](./TeensySourcecode/) Ordner) die neuen Belegungen des Teensy eintragen, im Arduino Programm im callibration mode die Potentiometer neu kallibrieren `TODO: den Schritt müssen wir detaillierter erklären`
+* mit dem USB Kabel den Teensy mit dem Computer verbinden und entweder einen beliebigen Open-Source Synthesizer starten (z.B. [Helm](https://tytel.org/helm/)),
+* oder in der Software (die extra dafür geschreiben wurde- siehe [TeensySourcecode](./TeensySourcecode/) Ordner) die neuen Belegungen des Teensy eintragen, im Arduino Programm im callibration mode die Potentiometer neu kallibrieren `TODO: den Schritt müssen wir detaillierter erklären`
 * PureData auf dem Rechner starten und den neuen Gametrak2.0- Midicontroller mit den Patches von PureData testen
 * TADAAA es funktioniert, jetzt nur noch eine Box für den Gametrak bauen und viel Spaß mit dem neuen Midicontroller!
 
