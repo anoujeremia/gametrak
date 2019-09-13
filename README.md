@@ -2,8 +2,8 @@
 
 ## Vom Golf-Playstation-controller zum Midicontroller
 
-`TODO: Einleitungstext`
-Der Gametrak ist ein Controller für die Playstation, mit dem man bspw. Golf spielen kann. Aus dem Controller kommen zwei Schnüre aus 2 Spulen heraus, die man ca zwei Meter in die Höhe herausziehen kann, und die man schön durch Bewegung dreidimensional im Raum steuern kann auf den Achsen vor-zurück, rechts-links und nach oben und unten. Dieser Gametrak-Controller wird nicht mehr hergestellt, ist aber zurzeit erschwinglich bei ebay & co. zu haben. (Stand 2019) 
+`TODO: Einleitungstext`  
+Der Gametrak ist ein Controller für die Playstation, mit dem man bspw. Golf spielen kann. Aus dem Controller kommen zwei Schnüre aus 2 Spulen heraus, die man ca zwei Meter in die Höhe herausziehen kann, und die man schön durch Bewegung dreidimensional im Raum steuern kann auf den Achsen vor-zurück, rechts-links und nach oben und unten. Dieser Gametrak-Controller wird nicht mehr hergestellt, ist aber zurzeit erschwinglich bei ebay & co. zu haben. (Stand 2019)   
 Da dieser Controller so schön ganzkörperlich zu bedienen ist, eignet er sich auch als etwas ausgefallener Midi-controller.
 Dieser Text ist eine Art Bauanleitung, wie man einen Gametrak selbst in einen Midicontroller umbauen kann. 
 Den Gametrak gibt es in verschiedenen Ausührungen: Hier im Video ist eine kleine Performance mit einer älteren Gametrak Version zu sehen, bei der der Gametrak als Controller noch als urspüngliche Box (nur ohne Deckel) erhalten ist.
