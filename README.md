@@ -13,7 +13,10 @@ Den Gametrak gibt es in verschiedenen Ausührungen: Hier im Video ist eine klein
 
 [![Watch the video](https://raw.githubusercontent.com/anoujeremia/gametrak/master/images/Gametrak%20Preview.png)](https://raw.githubusercontent.com/anoujeremia/gametrak/master/images/Gametrak.webm)
 
-https://raw.githubusercontent.com/anoujeremia/gametrak/master/images/Gametrak%20Preview.png
+https://raw.githubusercontent.com/anoujeremia/gametrak/master/images/Gametrak%20Preview.png  
+
+
+`TODO: Gametrak version 1 und 2 Fotos im vergleich`  
 
 
 **Die folgende Bauanleitung** beschreibt den Umbau von einer neueren (Gametrak 2) Variante, bei dem man am Ende dann nur die Spuelenbauteile mit den Schnüren aus dem Gametrak heraus nimmt und dann eine andere Box dazu bauen muss, da für zusätzliche Teile in der Gametrak 2 Version kein Platz ist.
