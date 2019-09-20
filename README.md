@@ -80,9 +80,11 @@ Das Bauteil Spule und Potentiometer des Gametraks in Nahaufnahme | ![images](ima
 
 * Nun den Teensy mit den angelöteten männlichen Pins in die weiblichen Pins -- und dadurch ins Experimentierboard -- stecken, daneben noch extra männliche Pins stecken, um die Kabel vom Teensy zum Board zu verbinden. (Dafür sich vorher den Pinbelegungsplan anschauen, wie man am besten die Siglalleitungen und die Plus und Minus Kabel legen möchte.)
 
-Teensy auf dem Experimentierboard | Pinbelegungen des Teensy
-----------------------------------|-------------------------
-![images](images/IMG_0026.JPG)    | ![images](images/IMG_0030.JPG)
+Teensy Pinbelegungen und Experimentierboard | _
+-----------------------------------|---
+Teensy Pinbelegung, beide Seiten | ![images](images/Teensy3.6.pdg)
+Teensy auf dem Experimentierboard | ![images](images/IMG_0026.JPG) 
+Verwendete Ansicht der Pinbelegungen des Teensy | ![images](images/IMG_0030.JPG)
 
 
 In diesem Fall wird der Analog GND (GND= Ground = Minus) mit 2 männlichen Steckern auf dem Board verdoppelt, sowie auch das Plus (hier 3.3V) mit 2 Steckern auf dem Board verdoppelt wird.
