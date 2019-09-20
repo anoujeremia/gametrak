@@ -8,7 +8,7 @@ Der Gametrak-Controller wird nicht mehr hergestellt, ist aber zurzeit erschwingl
 Da dieser Controller so schön ganzkörperlich zu bedienen ist, eignet er sich auch als etwas ausgefallener Midi-controller.  
 
 Dieser Text ist eine Art Bauanleitung, wie man einen Gametrak selbst in einen Midicontroller umbauen kann. 
-Den Gametrak gibt es in verschiedenen Ausführungen: Hier im Video ist eine kleine Performance mit einer älteren Gametrak Version zu sehen, bei der der Gametrak als Controller noch als urspüngliche Box (nur ohne Deckel) erhalten ist.
+Den Gametrak gibt es in verschiedenen Ausführungen: Hier im Video ist eine kleine Performance mit einer älteren Gametrak (Version 1) zu sehen, bei der der Gametrak als Controller noch als urspüngliche Box (nur ohne Deckel) erhalten ist.
 
 
 [![Watch the video](https://raw.githubusercontent.com/anoujeremia/gametrak/master/images/Gametrak%20Preview.png)](https://raw.githubusercontent.com/anoujeremia/gametrak/master/images/Gametrak.webm)
@@ -19,7 +19,7 @@ https://raw.githubusercontent.com/anoujeremia/gametrak/master/images/Gametrak%20
 `TODO: Gametrak version 1 und 2 Tabelle`
 
 Gametrak Version 1 | Gametrak Version 2
--------------------|---
+-------------------|-------------------
 ![images](images/Gametrak1.jpeg) | ![images](images/Gametrak2.jpeg)
 
 **Die folgende Bauanleitung** beschreibt den Umbau von einer neueren (Gametrak Version 2) Variante, bei dem man am Ende dann nur die Spuelenbauteile mit den Schnüren aus dem Gametrak heraus nimmt und dann eine andere Box dazu bauen muss, da für zusätzliche Teile in der Gametrak 2 Version kein Platz ist.
