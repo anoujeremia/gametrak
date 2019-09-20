@@ -81,8 +81,8 @@ Das Bauteil Spule und Potentiometer des Gametraks in Nahaufnahme | ![images](ima
 * Nun den Teensy mit den angelöteten männlichen Pins in die weiblichen Pins -- und dadurch ins Experimentierboard -- stecken, daneben noch extra männliche Pins stecken, um die Kabel vom Teensy zum Board zu verbinden. (Dafür sich vorher den Pinbelegungsplan anschauen, wie man am besten die Siglalleitungen und die Plus und Minus Kabel legen möchte.)
 
 Teensy Pinbelegungen und Experimentierboard | _
------------------------------------|---
-Teensy Pinbelegung, beide Seiten | ![images](images/Teensy3.6.pdg)
+--------------------------------------------|---
+Teensy Pinbelegung, beide Seiten | ![images](images/Teensy3.6.png)
 Teensy auf dem Experimentierboard | ![images](images/IMG_0026.JPG) 
 Verwendete Ansicht der Pinbelegungen des Teensy | ![images](images/IMG_0030.JPG)
 
