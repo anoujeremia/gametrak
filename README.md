@@ -22,7 +22,7 @@ Gametrak Version 1 | Gametrak Version 2
 -------------------|-------------------
 ![images](images/Gametrak1.jpeg) | ![images](images/Gametrak2.jpeg)
 
-**Die folgende Bauanleitung** beschreibt den Umbau von einer neueren (Gametrak Version 2) Variante, bei dem man am Ende dann nur die Spuelenbauteile mit den Schnüren aus dem Gametrak heraus nimmt und dann eine andere Box dazu bauen muss, da für zusätzliche Teile in der Gametrak 2 Version kein Platz ist.
+**Die folgende Bauanleitung** beschreibt den Umbau von einer neueren (Gametrak Version 2) Variante, bei dem man am Ende dann nur die Spulenbauteile mit den Schnüren aus dem Gametrak heraus nimmt und dann eine andere Box dazu bauen muss, da für zusätzliche Teile in der Gametrak 2 Version kein Platz ist.
 
 
 ### Einkaufsliste:                                     
