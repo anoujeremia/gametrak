@@ -89,7 +89,7 @@ Das Bauteil Spule und Potentiometer des Gametraks in Nahaufnahme | ![images](ima
 `TODO:Tabelle schön, gleichgroße Bilder wie zuor` 
 
 Teensy Pinbelegungen und Experimentierboard | _
------------------------------------|---
+--------------------------------------------|---
 Teensy Pinbelegung, beide Seiten | ![images](images/Teensy.jpeg)
 Teensy auf dem Experimentierboard | ![images](images/IMG_0026.JPG) 
 Verwendete Ansicht der Pinbelegungen des Teensy | ![images](images/IMG_0030.JPG)
