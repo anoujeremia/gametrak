@@ -1,20 +1,21 @@
 # Gametrak Nr 2 
 
 ## Vom Golf-Playstation-controller zum Midicontroller
+  
+Der Gametrak ist ein Controller für die Playstation 2 aus den 2000ern, der für Golf- oder Boxspiele verkauft wurde
+Er wird nicht mehr hergestellt, ist aber zurzeit (stand 2019) erschwinglich bei Ebay & Co. zu haben.
 
-`TODO: Einleitungstext`  
-Der Gametrak ist ein Controller für die Playstation, mit dem man bspw. Golf spielen kann. Aus dem Controller kommen zwei Schnüre aus zwei Spulen heraus, die man ca zwei Meter in die Höhe herausziehen kann, und die man schön durch Bewegung dreidimensional im Raum steuern kann, und zwar auf den Achsen vor-zurück, rechts-links und nach oben und unten.
-Der Gametrak-Controller wird nicht mehr hergestellt, ist aber zurzeit erschwinglich bei ebay & co. zu haben. (Stand 2019)
+Im Controller sind zwei ca. 2m lange Leinen auf Spulen mit einem Rückholmechanismus aufgewickelt (ähnlich einer Staubsaugerleine).
+Durch Messwiederstände an Führungsröhrchen, die sich dem Neigungswinkel der Leine anpassen, und der Spule können Neigungswinkel und abgewickelte Länge der Leine gemessen werden.
+Damit kann man dreidimensionale Bewegungen im Raum verfolgen kann, und zwar auf den Achsen vor-zurück, rechts-links und nach oben und unten.
+
 Da dieser Controller so schön ganzkörperlich zu bedienen ist, eignet er sich auch als etwas ausgefallener Midi-controller.  
 
-Dieser Text ist eine Art Bauanleitung, wie man einen Gametrak selbst in einen Midicontroller umbauen kann. 
-Den Gametrak gibt es in verschiedenen Ausführungen: Hier im Video ist eine kleine Performance mit einer älteren Gametrak (Version 1) zu sehen, bei der der Gametrak als Controller noch als urspüngliche Box (nur ohne Deckel) erhalten ist.
+Es folg eine Bauanleitung, um einen Gametrak in einen Midicontroller umzubauen. 
+Es gibt den Gametrak in zwei verschiedenen Ausführungen: 
+Hier im Video ist eine kleine Performance mit einer älteren Gametrak (Version 1) zu sehen.
 
-
-[![Watch the video](https://raw.githubusercontent.com/anoujeremia/gametrak/master/images/Gametrak%20Preview.png)](https://raw.githubusercontent.com/anoujeremia/gametrak/master/images/Gametrak.webm)
-
-https://raw.githubusercontent.com/anoujeremia/gametrak/master/images/Gametrak%20Preview.png  
-
+[![Watch the video](images/Gametrak%20Preview.png)](images/Gametrak.webm)
 
 `TODO: Gametrak version 1 und 2 Tabelle`
 
@@ -28,8 +29,8 @@ Gametrak Version 1 | Gametrak Version 2
 ### Einkaufsliste:                                     
 
 Item                                       | Preis (EUR)
--------------------------------------------|:-------:
-Gametrak version 2                          | 20 - 30
+-------------------------------------------|:----------:
+Gametrak Version 2                         | 20 - 30
 Experimentierboard                         | 7
 Teensy 3.6                                 | 34 
 Pins männlich und weiblich, je 2 Leisten   | 5
@@ -78,9 +79,10 @@ den Schrumpfschlauch mit dem Feuerzeug schrumpfen lassen | ![images](images/IMG_
 fertig! | ![images](images/IMG_0020.JPG)
 Das Bauteil mit Spule und Potentiometer mit den fertig angelöteten weiblichen Pin | ![images](images/IMG_0024.JPG)
 Das Bauteil Spule und Potentiometer des Gametraks in Nahaufnahme | ![images](images/IMG_0025.JPG)
-* Da die Farbbelegung der Kabel irreführend/ungewöhnlich ist, mit dem Multimeter den Widerstand messen, um herauszufinden, wie die Kabel tatsächlich belegt sind, also welche Kabel mit + - belegt sind, und welche die Sensorenkabel sind.
+* Da die Farbbelegung der Kabel irreführend/ungewöhnlich ist, mit dem Multimeter den Widerstand messen, 
+um herauszufinden, wie die Kabel tatsächlich belegt sind, also welche Kabel mit + - belegt sind, und welche die Sensorenkabel sind.
 (Sensorenkabel=Signalleitungen lesen den variablen Widerstand aus den beiden Potentiometern aus, d.h. wie weit die Schnur des Gametraks herausgezogen ist, und in welchem Winkel sie steht.)
-`TODO: für den Laien vielleicht schwer nachzuvollziehen.`
+Wenn wir zwischen zwei Kabeln den Widerstand messen und währenddessen die Potentioneter betätigen, sollte sich der Messwert ändern, wenn mindestens eins der Kabel ein Sensorkabel ist und der Messwert sollte gleich bleiben, wenn wir den Widerstand zwischen + und - messen.
 
 * Die Widerstandsmessungen haben folgendes ergeben: Die 5 Kabel, sind in diesem Gamtrak folgendermaßen belegt: Die beiden äußeren Kabel (hier braun und grün) sind für plus und minus, die 3 inneren Kabel (hier rot, orange,gelb) sind die Signalleitungen der drei Potis. 
 
@@ -107,11 +109,22 @@ Die erste Hälfte des Gametraks ist verbunden. Links die drei Sensor-Leitungen (
 Die zweite Hälfte ist verbunden. Diese gesteckte Version kann später natürlich gelötet werden oder durch stabilere Stecksysteme ersetzt werden. | ![images](images/IMG_0029.JPG)
 Gesamtansicht von Teensy und den beiden Gametrak-Hälften. | ![images](images/IMG_0031.JPG).
 
+Jetzt muss der Teensy mit der richtigen Firmware bespielt werden. Dafür
+`TODO: Links einfügen` 
+1. Die Arduino IDE herunterladen auf arduino.cc
+1. Das Teensy Plugin für die Arduino herunterladen auf teensy.com
+1. In der Arduino IDE die Firmware öffnen "GameTrakAsMIDI" im ordner "TeensySourcecode"
+1. Die Pinbelegung eintragen `TODO: wie?`
+1. Teensy per USB mit dem Computer verbinden
+1. Unter Tools -> Port den Teensy auswählen
+1. Auf "Upload" klicken (strg+u)
+
+vor der ersten Benutzung muss Kalibriert werden:
+`TODO: Kalibrierungsanleitung`
 
 Jetzt nur noch mit dem Computer verbinden und schauen ob es schon funktioniert,
 das heißt:
 * mit dem USB Kabel den Teensy mit dem Computer verbinden und entweder einen beliebigen Open-Source Synthesizer starten (z.B. [Helm](https://tytel.org/helm/)),
-* oder in der Software (die extra dafür geschreiben wurde- siehe [TeensySourcecode](./TeensySourcecode/) Ordner) die neuen Belegungen des Teensy eintragen, im Arduino Programm im callibration mode die Potentiometer neu kallibrieren `TODO: den Schritt müssen wir detaillierter erklären`
-* PureData auf dem Rechner starten und den neuen Gametrak2.0- Midicontroller mit den Patches von PureData testen
+* oder PureData auf dem Rechner starten und den neuen Gametrak2.0- Midicontroller mit den Patches von PureData testen `TODO: willst du die PD patches auch noch ins repository packen?`
 * TADAAA es funktioniert, jetzt nur noch eine Box für den Gametrak bauen und viel Spaß mit dem neuen Midicontroller!
 
