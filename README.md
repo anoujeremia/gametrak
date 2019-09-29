@@ -113,14 +113,24 @@ Jetzt muss der Teensy mit der richtigen Firmware bespielt werden. Dafür
 `TODO: Links einfügen` 
 1. Die Arduino IDE herunterladen auf arduino.cc
 1. Das Teensy Plugin für die Arduino herunterladen auf teensy.com
-1. In der Arduino IDE die Firmware öffnen "GameTrakAsMIDI" im ordner "TeensySourcecode"
-1. Die Pinbelegung eintragen `TODO: wie?`
+1. In der Arduino IDE die Firmware öffnen unter TeensySourcecode/GameTrakAsMIDI/GameTrakAsMIDI.ino`.
+1. Die Pinbelegung eintragen
 1. Teensy per USB mit dem Computer verbinden
-1. Unter Tools -> Port den Teensy auswählen
+1. Unter `Tools > Port` den Teensy auswählen
+1. Unter `Tools > USB Type > Serial + MIDI` einstellen
 1. Auf "Upload" klicken (strg+u)
 
 vor der ersten Benutzung muss Kalibriert werden:
-`TODO: Kalibrierungsanleitung`
+1. Teensy per USB mit dem Computer verbinden
+1. Arduino IDE starten
+1. `Tools > Serial Monitor` auswählen
+1. sich nicht von den vielen Zahlen verwirren lassen und `h` in das obere Textfeld eingeben (bestätigen mit Enter)
+1. `c`+`Enter` eingeben um die Kalibrierung zu starten
+1. Beide Führungsröhrichen nach rechts/links/vorne/hinten bewegen jeweils bis zum Anschlag.
+1. Beide Leinen bis zur maximalen Länge, bei der sie benutzt werden sollen, herausziehen.
+1. `c` + `Enter` um die Kalibrierung abzuschließen. 
+
+Die Kalibrierung wird gespeichert und muss bei der nächsten Benutzung nur dann neu ausgeführt werden, wenn der Gametrak mit einer neuen maximalen Leinenlänge benutzt werden soll.  
 
 Jetzt nur noch mit dem Computer verbinden und schauen ob es schon funktioniert,
 das heißt:

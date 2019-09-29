@@ -1,29 +1,26 @@
-#include <EEPROM.h>
-#include "ValueSources.h"
-#include "MIDIDevices.h"
-
-// New Gametrack
+/////////////////////////////////
+/// ENTER THE PINS ON WHICH YOU
+/// CONNECTED THE SENSOR WIRES HERE
+/// X = RIGHT-LEFT
+/// Y = FRONT-BACK
+/// Z = IN-OUT
+////////////////////////////////
+// Left Line
 const int pin_x_l = 22;
 const int pin_y_l = 20;
 const int pin_z_l = 21;
 
+// Right Line
 const int pin_x_r = 18;
 const int pin_y_r = 16;
 const int pin_z_r = 17;
 
-const int pin_foot = 0;
+const int pin_foot = 0; // optional
+////////////////////////////////
 
-// Old Gametrack
-//const int pin_x_l = 22;
-//const int pin_y_l = 21;
-//const int pin_z_l = 17;
-//
-//const int pin_x_r = 34;
-//const int pin_y_r = 35;
-//const int pin_z_r = 18;
-//
-//const int pin_foot = 0;
-
+#include <EEPROM.h>
+#include "ValueSources.h"
+#include "MIDIDevices.h"
 
 
 AnalogValueSource x_l(pin_x_l, 0, 127);
@@ -38,14 +35,12 @@ DigitalValueSource foot(pin_foot, 50, 127);
 
 ConstantValueSource velocityConstant(127);
 
-//PedalKeyboard<0> k(z_l, velocityConstant, pin_foot);
 Control<1, 1> ctrl1(x_l);
 Control<2, 1> ctrl2(y_l);
 Control<3, 1> ctrl3(z_l);
 Control<4, 1> ctrl4(x_r);
 Control<5, 1> ctrl5(y_r);
 Control<6, 1> ctrl6(z_r);
-//PitchBend<1> pitchBend(z_r);
 
 void setup() {
   Serial.begin(9600);
@@ -64,16 +59,14 @@ void setup() {
 int state = 'r';
 void loop() {
 
-updateMenu();
+  updateMenu();
 
-//  k.update();
   ctrl1.update();
   ctrl2.update();
   ctrl3.update();
   ctrl4.update();
   ctrl5.update();
   ctrl6.update();
-//  pitchBend.update();
 
   switch (state) {
     case 'r':
