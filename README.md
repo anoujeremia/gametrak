@@ -17,7 +17,7 @@ Hier im Video ist eine kleine Performance mit einer älteren Gametrak (Version 1
 
 [![Watch the video](images/Gametrak%20Preview.png)](images/Gametrak.webm)
 
-`TODO: Gametrak version 1 und 2 Tabelle`
+`TODO: Gametrak version Tabelle fotos kleiner, so wie später in der Tabelle
 
  Gametrak Versionen, Kaufzustand:|_
 -------------------|-------------------
