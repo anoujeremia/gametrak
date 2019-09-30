@@ -7,7 +7,7 @@ Er wird nicht mehr hergestellt, ist aber zurzeit (stand 2019) erschwinglich bei 
 
 Im Controller sind zwei ca. 2m lange Leinen auf Spulen mit einem Rückholmechanismus aufgewickelt (ähnlich einer Staubsaugerleine).
 Durch Messwiederstände an Führungsröhrchen, die sich dem Neigungswinkel der Leine anpassen, und der Spule können Neigungswinkel und abgewickelte Länge der Leine gemessen werden.
-Damit kann man dreidimensionale Bewegungen im Raum verfolgen kann, und zwar auf den Achsen vor-zurück, rechts-links und nach oben und unten.
+Damit kann man dreidimensionale Bewegungen im Raum verfolgen, und zwar auf den Achsen vor-zurück, rechts-links und nach oben und unten.
 
 Da dieser Controller so schön ganzkörperlich zu bedienen ist, eignet er sich auch als etwas ausgefallener Midi-controller.  
 
@@ -86,7 +86,7 @@ Wenn wir zwischen zwei Kabeln den Widerstand messen und währenddessen die Poten
 
 * Die Widerstandsmessungen haben folgendes ergeben: Die 5 Kabel, sind in diesem Gamtrak folgendermaßen belegt: Die beiden äußeren Kabel (hier braun und grün) sind für plus und minus, die 3 inneren Kabel (hier rot, orange,gelb) sind die Signalleitungen der drei Potis. 
 
-* Nun den Teensy mit den angelöteten männlichen Pins in die weiblichen Pins -- und dadurch ins Experimentierboard -- stecken, daneben noch extra männliche Pins stecken, um die Kabel vom Teensy zum Board zu verbinden. (Dafür sich vorher den Pinbelegungsplan anschauen, wie man am besten die Siglalleitungen und die Plus und Minus Kabel legen möchte.)
+* Nun den Teensy mit den angelöteten männlichen Pins in die weiblichen Pins - und dadurch ins Experimentierboard - stecken, daneben noch extra männliche Pins stecken, um die Kabel vom Teensy zum Board zu verbinden. (Dafür sich vorher den Pinbelegungsplan anschauen, wie man am besten die Siglalleitungen und die Plus und Minus Kabel legen möchte.)
 
 `TODO:Tabelle schön, gleichgroße Bilder wie zuor` 
 
