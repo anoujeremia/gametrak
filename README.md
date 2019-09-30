@@ -110,9 +110,8 @@ Die zweite Hälfte ist verbunden. Diese gesteckte Version kann später natürlic
 Gesamtansicht von Teensy und den beiden Gametrak-Hälften. | ![images](images/IMG_0031.JPG).
 
 Jetzt muss der Teensy mit der richtigen Firmware bespielt werden. Dafür
-`TODO: Links einfügen` 
-1. Die Arduino IDE herunterladen auf arduino.cc
-1. Das Teensy Plugin für die Arduino herunterladen auf teensy.com
+1. Die Arduino IDE herunterladen auf [arduino.cc](https://www.arduino.cc/en/Main/Software)
+1. Das Teensy Plugin für die Arduino herunterladen auf [teensy.com](https://www.pjrc.com/teensy/td_download.html)
 1. In der Arduino IDE die Firmware öffnen unter TeensySourcecode/GameTrakAsMIDI/GameTrakAsMIDI.ino`.
 1. Die Pinbelegung eintragen
 1. Teensy per USB mit dem Computer verbinden
