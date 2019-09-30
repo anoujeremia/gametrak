@@ -19,9 +19,10 @@ Hier im Video ist eine kleine Performance mit einer älteren Gametrak (Version 1
 
 `TODO: Gametrak version 1 und 2 Tabelle`
 
-Gametrak Version 1 | Gametrak Version 2
+ Gametrak Versionen, Kaufzustand:|_
 -------------------|-------------------
-![images](images/Gametrak1.jpeg) | ![images](images/Gametrak2.jpeg)
+Gametrak Version 1 (hier im Video) | ![images](images/Gametrak1.jpeg)
+Gametrak Version 2 (hier als Bauanleitung) | ![images](images/Gametrak2.jpeg)
 
 **Die folgende Bauanleitung** beschreibt den Umbau von einer neueren (Gametrak Version 2) Variante, bei dem man am Ende dann nur die Spulenbauteile mit den Schnüren aus dem Gametrak heraus nimmt und dann eine andere Box dazu bauen muss, da für zusätzliche Teile in der Gametrak 2 Version kein Platz ist.
 
