@@ -51,7 +51,7 @@ Schrumpfschlauch                           | 0,10
 * USB Kabel & Computer
 
 
-### Bausessionanleitung:
+### Bauanleitung:
 
 
 Der Teensy wurde ohne Pins geliefert, deshalb werden als erstes die männlichen Pins so auf das Experimentierboard gesteckt, dass man den Teensy auf die Pins stecken kann und nun
