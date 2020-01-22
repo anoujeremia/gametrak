@@ -2,7 +2,7 @@
 
 ## Vom Golf-Playstation-controller zum Midicontroller
   
-Der Gametrak ist ein Controller für die Playstation 2 aus den 2000ern, der für Golf- oder Boxspiele verkauft wurde
+Der Gametrak ist ein Controller für die Playstation 2 aus den 2000ern, der für Golf- oder Boxspiele verkauft wurde.
 Er wird nicht mehr hergestellt, ist aber zurzeit (stand 2019) erschwinglich bei Ebay & Co. zu haben.
 
 Im Controller sind zwei ca. 2m lange Leinen auf Spulen mit einem Rückholmechanismus aufgewickelt (ähnlich einer Staubsaugerleine).
@@ -51,9 +51,8 @@ Schrumpfschlauch                           | 0,10
 * USB Kabel & Computer
 
 
-### Bausession:
+### Bausessionanleitung:
 
-Start 19:00 Ende 21:15
 
 Der Teensy wurde ohne Pins geliefert, deshalb werden als erstes die männlichen Pins so auf das Experimentierboard gesteckt, dass man den Teensy auf die Pins stecken kann und nun
 die ersten 4 äußeren Pins an den Teensy löten kann. 
@@ -136,4 +135,5 @@ das heißt:
 * mit dem USB Kabel den Teensy mit dem Computer verbinden und entweder einen beliebigen Open-Source Synthesizer starten (z.B. [Helm](https://tytel.org/helm/)),
 * oder PureData auf dem Rechner starten und den neuen Gametrak2.0- Midicontroller mit den Patches von PureData testen `TODO: willst du die PD patches auch noch ins repository packen?`
 * TADAAA es funktioniert, jetzt nur noch eine Box für den Gametrak bauen und viel Spaß mit dem neuen Midicontroller!
+* (Zum Beispiel mit LibreCAD eine speziefische Box für die Teile des Gametraks zeichnen und dann mit dem Lasercutter die Teile aus Holz oder Plexiglas ausschneiden und zusammenstecken/kleben.)
 
